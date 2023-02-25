@@ -1,0 +1,36 @@
+# banoqabil<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How develop websites</title>
+</head>
+<body>
+    <h1>Build your own website</h1>
+    <h2>html document</h2>
+    <p> Frist open a new file from the vscode menu name it with html extention <br>
+        so that browser recognize it as an html docurment. save the file in some <br>
+        folder, right click on the file icon in your folder and click on "open with"<br>
+        chrome. that is it! your first skeleton of the webpage is ready.
+        
+    </p>
+
+    <h2>apply css</h2>
+    <p>
+        css is like flesh,muscles on your body. It makes the page attractive and  <br>
+        beautiful.Here are some tutorials to learn css online.
+
+    </p>
+    <h2>add javascript</h2>
+
+    javascript adds  functionality to a website. Without javascript you will  <br>
+    see the same old content each time you visit the website. javascript gives you <br>
+    flexibility to connect to the server pull new content from the server.To learn <br>
+    javascript  visit these links.
+
+
+    <p></p>
+
+    
+</body>
+</html>
