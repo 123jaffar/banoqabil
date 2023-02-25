@@ -1,0 +1,568 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    table, th, td {
+      border:2px solid rgb(107, 23, 58);
+    }
+    </style>
+
+<body>
+    <table> style="width=100%">
+        
+    <h1>assignment</h1>
+        <tr><th>Name</th>
+        <th>assignment1</th>
+        <th>assignment2 </th>
+        <th>assigmet3</th>
+          <th>assigmet4</th>
+            <th>assigmet5</th>
+            <th>assigmet6</th>
+            <th>assigmet7</th>
+            <th>assigmet8</th>
+            <th>assigmet9</th>
+        </tr>
+        <tr>
+           <td> Sohail Hussain	</td>
+           td></td>
+           <td></td>
+           <td></td>
+           
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           
+        	</tr>
+           <tr>																								
+           <td> Syed Shoaib Ahmed Qadri	</td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           
+           
+        </tr>
+           <tr>																							
+           <td>  Muhammad Owais Naseem	</td>	
+
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+        
+           
+        </tr>
+           <tr>																								
+            <td> Abdul Haseeb Imran</td>
+
+            <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           
+           
+        	</tr>
+            <tr>																									
+           <td>  muneeb ur rehman	</td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           
+        
+            </tr>
+                    <tr>					
+
+                    <td>namename</td>	
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        
+                        
+                        <td></td></tr>																			
+                    <td>  Muhammad Huzaifa Qayyum	</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    
+                    
+                    <td></td>	</tr>
+                    <tr>																								
+                        <td>   Aamir Ali	</td>	
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        
+                        
+                        <td></td></tr>
+                        <tr>																								
+                            <td>  m hassan ali	</td>	
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            
+                            
+                            <td></td></tr>
+                            <tr>																								
+                                <td>  M.Haider	</td>	
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                
+                            
+                                <td></td></tr>
+                                <tr>																							
+                                    <td>    Muhammad Muaz	</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    
+                                    
+                                    <td></td>	</tr>
+                                    <tr>																							
+                                        <td>  Nouman Majeed	</td>	
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        
+                                    
+                                        <td></td></tr>
+                                        <tr>																								
+                                            <td>      Wasif Ahmed	</td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            <td></td>
+                                            
+                                            <td></td>
+                                            <td></td>	</tr>
+                                            <tr>																								
+                                                <td>  Mohib Ur Rehman	</td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                            
+                                                <td></td></tr>
+                                                <tr>																									
+                                                <td>    Muhammad Salman</td>	
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                <td></td>
+                                                                                            <td></td>
+                                                <td></td></tr>
+                                                <tr>																									
+                                                    <td>        Arqam Sarwar	</td>	
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td>
+                                                    <td></td></tr>
+                                                    <tr>																								
+                                                        <td>    M Anwar UL Haq</td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>	</tr>
+                                                        <tr>																									
+                                                            <td>     abdul rafay</td>	
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td></td></tr>
+                                                            <tr>																								
+                                                                <td>   Abdul Malik Javed</td>	
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td>
+                                                                <td></td></tr>
+                                                                <tr>																									
+                                                                    <td>     Ahtasham Ahmed</td>
+
+
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>namename</td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           <td></td>
+           td></td>
+           <td></td>
+           <td></td>
+           
+           <
+
+
+                                                                    </tr>
+
+
+
+                                                                       
+                                                                
+           
+                                                        
+                                                                    <tr>																										
+                                                                        <td>    Muhammad Muzammil Ansari</td>	
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td>
+                                                                        <td></td></tr>>
+                                                                        <tr>																									
+                                                                            <td>     Hafiz Uzaid Siddiq	</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>	</tr>
+                                                                            <tr>																								
+                                                                                <td>   Abdul haseeb Imran	</td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td></tr>
+                                                                                <tr>																									
+                                                                                    <td>   Abid Hussain	</td>	
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td></tr>
+                                                                                    																								
+                                                                                      <tr>  <td>    Muhammad Noman</td>	
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td>
+                                                                                        <td></td></tr>																									
+                                                                                         <tr>
+                                                                                            <td>      Ali Ahmed Siddiqui</td>
+                                                                                        	</td>	
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td>
+                                                                                            <td></td></tr>	
+
+                                                                                            <tr>   
+                                                                                                <td>     
+                                                                                                  M.Hassan Ahmed Khan	
+                                                                                                </td>
+                                                                                                <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td></tr>
+                                                                                            																								
+                                                                                        <tr>   <td>      Rehab	</td>																								
+                                                                                             <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                                <td></td>
+                                                                                            </tr>
+                                                                 <tr>   <td>   Rao Aershuman Adnan	</td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td>
+                                                                 <td></td></tr>		
+                                                                 <tr>																							
+                                                                              <td>    Adan Lodhi	</td>	
+                                                                              <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>	</tr>																					
+                                                                         <tr>         <td>         Atta ur rehman	</td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                            <td></td></tr>																									
+                                                                            <tr>  <td>     abdulmalik		</td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td>
+                                                                                <td></td></tr>																							
+                                                                                  <tr>     <td> Abdul Hadi	</td>	
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td>
+                                                                                    <td></td></tr>
+                                                                                    
+                                                                                    
+                                                                          <tr> <td>           Yahya Ishaq	</td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td>
+                                                                           <td></td></tr>																									
+                                                                   <tr>    <td>   Ayan Mirza		</td>	
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td>
+                                                                    <td></td></tr>																						
+                                                                                <tr>       <td>       Jaffar Khan	</td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td>
+                                                                                       <td></td></tr>	</tr>																								
+                                                                                                                                
+              </tr>                                                                                                      
+                                                                                                                    
+                                                                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </tr>
+
+    </table>
+</body>
+</html>
