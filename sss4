@@ -1,0 +1,65 @@
+# banoqabil
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+
+
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+</style>
+
+
+<h1>OUR DIGITAL SERVICES</h1>
+
+<div class="myDiv">
+  <h2>Web Design and Development</h2>
+  
+</div>
+
+
+<img src="https://straitwebsolutions.com/wp-content/uploads/2022/09/Web-Development-Services.jpg" alt="">
+
+<p>
+    <p>Get customized websites</p>
+    <a href="https://www.navicosoft.com/"target="-blank"Visit navisoft!</a>
+</p>
+
+
+<br>
+<div class="myDiv">
+    <h2>Graphics Design</h2>
+   
+  </div>
+  <img src="https://usecs.edu.pk/wp-content/uploads/2022/11/Web-Banner-GD-1024x412.png" alt="">
+
+
+  <p>Someone has rightly said that a picture worths a thousand words <br>
+    make your business stand out among others. To see our projects visit us at <br>
+    <a href="https://www.designcrowd.com/"target="-blank"visit designcrowd"</a>
+    
+    </p>
+
+  
+  
+
+
+  
+ 
+
+
+
+</body>
+</html>
+
+</body>
+</html>
